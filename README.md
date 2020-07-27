@@ -1,4 +1,5 @@
-# Unsupervised Machine Learning: Clustering of Books Based on Goodreads Summary
+# Unsupervised Machine Learning: 
+# Clustering of Books Based on Goodreads Summary
 
 The goal of this project was to create a TF-IDF matrix for words used in Goodreads summaries, and deploy an unsupervised ML model that could cluster the books into n distinct groups. 
 
