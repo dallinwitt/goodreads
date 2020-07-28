@@ -1,5 +1,5 @@
 # Clustering Books Based on Their Goodreads Summary
-### Unsupervised Machine Learning: 
+## Unsupervised Machine Learning 
 
 #### Motivation:
 The goal of this project was to create an unsupervised machine learning algorithm that could cluster books together with other books of a similar topic. Categorization tasks are frustrating and time-consuming to do by hand, and automating a large part of it, even if the results are imperfect, would make the task significantly easier and faster.
